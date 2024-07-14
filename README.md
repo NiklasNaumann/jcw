@@ -7,14 +7,9 @@
 ## Generate HDL code
 ### Download 
 ```
-git clone https://github.com/NiklasNaumann/rocket-chip.git
+git clone https://github.com/NiklasNaumann/jcw.git
 ```
 ### Verilog
 ```
 make verilog
-```
-
-### VHDL
-```
-make vhdl
 ```
